@@ -1,4 +1,4 @@
-spting:
+spring:
   application:
     name: Config-prod
 
